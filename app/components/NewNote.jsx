@@ -1,5 +1,4 @@
 import newNoteStyles from './NewNote.css';
-
 import {
   Form,
 } from '@remix-run/react';
